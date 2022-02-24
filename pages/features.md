@@ -46,6 +46,9 @@ Contract summary shows basic details of a contract as well as computed propertie
 
 ## Contract Timeline
 
+![Contract Timeline](img/contract-timeline.png)
+
+Contract timeline shows the basic data of a contract including the summary of suspensions and resumptions if any, of a contract. This also reflects the actual completion of the contract.
 
 ## Contract S-Curve
 
