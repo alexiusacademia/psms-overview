@@ -40,6 +40,9 @@ This page let the user suspend a contract and resumes it. It lists all the suspe
 
 ## Contract Summary
 
+![Contract Summary](img/contract-summary.png)
+
+Contract summary shows basic details of a contract as well as computed properties such as `expiry date due to suspensions` and `slippage`. It can also be downloaded to be used for attachments to reports in excel format.
 
 ## Contract Timeline
 
