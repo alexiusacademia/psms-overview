@@ -60,15 +60,35 @@ The s-curve in `PSMS` reflects the revised projected curve (shown by the red cur
 
 ## Physical Features
 
+Physical features are components of infrastructure contracts that are measurable. They can be added in PSMS to monitor the impact of a certain project. The following are example of physical features:
 
+- Length of Road
+- Number of Canal Structures
+- Length of Concrete Canal
+- Number of beneficiaries
+- Generated Area for Irrigation, etc.
+
+Any metric can be added by the system user.
+
+They are added as accomplishments accompanied by date of accomplishment.
 
 ## Contracts Summary Per CY
 
+This feature lists all contracts by year of implementation. Each entry shows the contract details summary including the computed properties of the contract.
 
 ## Summary of Negative Slippage Per Cy
+
+This shows lists of contracts with same details as above, but only filters the entries that incurred negative slippages.
 
 
 ## Projects Summary Per CY
 
+This lists all the projects by year of implementation, grouped by fund sources. Each project shows a contract or contracts under it showing the contract details. This also shows the financial accomplishments of a project and is calculated automatically based on the `finance user` inputs.
+
+This list can be filtered by only showing the fund sources that the user wants to display.
 
 ## Projects Summary Per Fund Source Per CY
+
+![Accomplishment by Fund Source](img/accomplishment-by-fund-source.png)
+
+This is a concise summary of projects packed as fund sources. This features shows how much is accomplished by fund source and also the overall performance for the implementation year selected.
