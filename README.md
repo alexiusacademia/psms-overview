@@ -1,6 +1,6 @@
 # Overview
 ---
-PSMS or Project Status Monitoring System is web-based application that allows agencies in effectively monitoring their projects on demand with the  necessity of asking or gathering data from each project-in-charge manually.
+PSMS or Project Status Monitoring System is web-based application that allows agencies in effectively monitoring their projects on demand. It won't be necessary to ask or gather data from each project-in-charge manually.
 
 ## Key Points
 
